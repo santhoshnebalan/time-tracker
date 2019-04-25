@@ -1,19 +1,19 @@
 <%--
   Created by IntelliJ IDEA.
-  User: Jason
-  Date: 6/22/2015
-  Time: 8:47 PM
+  User: Santhosh
+  Date: 4/25/2019
+  Time: 00:01 AM
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Super Simple Example Webpage</title>
+    <title>Hi Suggsy</title>
 </head>
 <body>
-  <h1>Super Simple Example Web Page</h1>
+  <h1>My dear dumbo</h1>
   <p>
-    This is a very simple example web page on a JSP.
+    I love you so much
   </p>
 </body>
 </html>
